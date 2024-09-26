@@ -1,0 +1,14 @@
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.exe
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.deps.json
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.runtimeconfig.json
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.dll
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.pdb
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfo.cs
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.dll
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\obj\Debug\net8.0\refint\InventoryManagementSystem.dll
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.pdb
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.genruntimeconfig.cache
+E:\Software engineer\Portfolio projects\C#\Inventory Management System\InventoryManagementSystem\obj\Debug\net8.0\ref\InventoryManagementSystem.dll
